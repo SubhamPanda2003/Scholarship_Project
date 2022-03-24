@@ -1,6 +1,11 @@
 body{
     background-color: aqua;
 }
+body {
+    background-image: url("bg.jpg");
+    background-color: #cccccc;
+    background-size:100%;
+   }
 .container{
     position: relative;
     
@@ -11,7 +16,7 @@ body{
 img{
     border-radius: 20px;
     margin-top: 2rem;
-    height: 25rem;
+    height: 20rem;
     
     
 }
@@ -20,8 +25,9 @@ img{
 .bbb{
     border-radius: 25px;
     margin: 0rem 1rem;
-    background-color: blue;
-    padding: 1rem 0rem;
+    background-color: rgb(255, 136, 0);
+    text-align: center;
+    padding: 1px 0rem;
 }
    
 .scroll{
