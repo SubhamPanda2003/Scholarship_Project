@@ -24,10 +24,10 @@ img{
 
 .bbb{
     border-radius: 25px;
-    margin: 0rem 1rem;
+    margin: 0rem 0.5rem;
     background-color: rgb(255, 136, 0);
     text-align: center;
-    padding: 1px 0rem;
+    padding: 1rem 0rem;
 }
    
 .scroll{
